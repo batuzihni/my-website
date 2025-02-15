@@ -16,6 +16,4 @@ This webpage is built using **HTML & CSS**, with a simple, clean, and profession
 - CSS3  
 
 ## 🚀 How to View the Website  
-[1.
-   git clone https://github.com/batuzihni/portfolio.git](https://batuzihni.github.io/my-website/)
-](https://batuzihni.github.io/my-website/)](https://batuzihni.github.io/my-website/)](https://batuzihni.github.io/my-website/)
+[1.git clone https://github.com/batuzihni/portfolio.git](https://batuzihni.github.io/my-website/)]
